@@ -2,6 +2,10 @@
 
 [GeoNames](http://www.geonames.org/) daily data dump as a [SQLite](https://www.sqlite.org/) database.
 
+## Status
+
+This repository is under active development.
+
 ## License
 
 The code in this repository is [Apache 2.0](LICENSE) licensed.

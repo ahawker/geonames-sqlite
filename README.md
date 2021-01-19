@@ -6,6 +6,23 @@
 
 This repository is under active development.
 
+## Usage
+
+(Tested on python 3.7.3 only)
+
+```python
+$ python wip.py
+```
+
+## TODO
+
+* [ ] Add proper CLI
+* [ ] Refactor Options (defined in a few places) + JSON file serde
+* [ ] Add Column/Index types that can be enabled/disabled
+* [ ] Add file download/zip extraction
+* [ ] Add common options patterns based on usage
+* [ ] Add table/index size breakdown so users can determine where to get best savings
+
 ## License
 
 The code in this repository is [Apache 2.0](LICENSE) licensed.
